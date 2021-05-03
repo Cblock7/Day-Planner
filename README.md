@@ -4,4 +4,4 @@ In this activity we were requred to create a day planner that allows the user to
 
 To use the day planner simply type your activity in the appropriate time slot and click the save button icon to the right of the time slot. This activity will now be saved in local storage and will not be removed when the page is refreshed.
 
-![](./assets/Day-Planner-SS.png)
+![](./assets/Day-Planner-SS.jpg)
